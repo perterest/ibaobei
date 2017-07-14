@@ -1,0 +1,21 @@
+{
+  "html": {
+    "indent_char": "",
+    "indent_size": 2,
+    "allowed_file_extensions": ["html", "shtml", "aspx", "master", "xml", "xhtml"]
+  },
+  "js": {
+    "indent_char": " ",
+    "indent_size": 2,
+    "space_in_paren": false,
+    "keep_function_indentation": true,
+    "space_after_anon_function": true,
+    "space_before_conditional": true,
+    "allowed_file_extensions": ["js", "json", "jshintrc", "jsbeautifyrc"]
+  },
+  "css": {
+  	"indent_char": " ",
+    "indent_size": 2,
+    "allowed_file_extensions": ["css", "scss", "sass", "less"]
+  }
+}
